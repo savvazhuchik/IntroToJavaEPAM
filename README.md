@@ -1,2 +1,3 @@
 # IntroToJavaEPAM
- Savva Zhuchik task's
+ Savva Zhuchik task's Solutions
+ 
