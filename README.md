@@ -1,3 +1,3 @@
 # IntroToJavaEPAM
- Savva Zhuchik task's Solutions
+1 - 5 Module task's solutions 
  
